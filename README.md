@@ -1,7 +1,7 @@
 # Hey Welcome to My profile
 ### Some infos about me:
  My name is Alperen, <br>
- I am from turkey, <br>
+ I am from Turkey, <br>
  I am 15 Years old
 
 # Languages & Other:
