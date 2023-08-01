@@ -1,7 +1,7 @@
 # Welcome to My profile
 ### Some infos about me:
  Hi, i am Alperen "xtandeas" Demirel. <br>
- I've been programming lua about 4.5 years. <br>
+ I've been developing games since 2019 on roblox <br>
  I Sharing My projects on this github. <br>
  
 # Contact:
