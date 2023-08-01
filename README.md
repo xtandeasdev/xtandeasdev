@@ -8,7 +8,6 @@
   <a href="https://discord.com/users/822494990105313341">Discord</a> <br>
 ## Other Links:
    [Roblox](https://www.roblox.com/users/792954023/profile)
-   [Roblox](https://www.roblox.com/users/792954023/profile)
   
 
 
