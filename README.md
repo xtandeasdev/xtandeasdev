@@ -1,6 +1,6 @@
 # Welcome to My profile
 ### About me:
- Hi, i am Alperen "xtandeas" Demirel. <br>
+ Hi, i'm Alperen,
  I've been developing games since 2019 on roblox <br>
  I Sharing My projects on this github. <br>
  
